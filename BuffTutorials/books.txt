@@ -1,0 +1,3 @@
+Boy,20,Roald Dahl
+Book Thief,30,Markus Zusak
+American Psycho,20,Brett Easton Ellis
